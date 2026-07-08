@@ -1,0 +1,6 @@
+{
+  "name": "Analisador de Vídeos",
+  "description": "Analise o conteúdo de vídeos do YouTube e Instagram por meio de links, extraindo transcrições, resumos, tópicos, sentimentos e citações marcantes usando a API do Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
